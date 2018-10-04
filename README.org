@@ -1,5 +1,14 @@
 
-* The things I need
+* In a nutsehll...
+
+  This is a repo for building my =.emacs.d= by studying 
+  other's examples and repos. 
+
+  Here is a list of references:
+  - [[https://github.com/jonnay/emagicians-starter-kit][jonnay/emagicians-starger-kit]]
+  - [[https://github.com/purcell/emacs.d][purcell/emacs.d]]
+
+* Todo Lists for functionalities
 
 ** TODO INSTALLATION SCRIPT
 
