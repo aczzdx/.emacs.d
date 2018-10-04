@@ -1,0 +1,13 @@
+
+* The things I need
+
+** TODO INSTALLATION SCRIPT
+
+** TODO GIT enviroment 
+
+** TODO ELISP
+
+** TODO CNFONTS
+
+** TODO C++ 
+
